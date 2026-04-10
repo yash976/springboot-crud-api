@@ -1,4 +1,4 @@
-# Spring Boot CRUD API
+# Spring Boot CRUD API.
 
 A simple and clean RESTful CRUD API built using Spring Boot, Spring Data JPA, and MySQL.
 
